@@ -1,0 +1,49 @@
+{
+  "foods": [
+    "chicken",
+    "rice",
+    "salad"
+  ],
+  "symptoms": [
+    "bloated",
+    "headache"
+  ],
+  "linked": [
+    {
+      "food": "chicken",
+      "symptom": "bloated",
+      "food_time": "12 PM",
+      "symptom_time": "3 PM"
+    },
+    {
+      "food": "rice",
+      "symptom": "bloated",
+      "food_time": "1 PM",
+      "symptom_time": "3 PM"
+    },
+    {
+      "food": "salad",
+      "symptom": "bloated",
+      "food_time": "1:30 PM",
+      "symptom_time": "3 PM"
+    },
+    {
+      "food": "chicken",
+      "symptom": "headache",
+      "food_time": "12 PM",
+      "symptom_time": "4 PM"
+    },
+    {
+      "food": "rice",
+      "symptom": "headache",
+      "food_time": "1 PM",
+      "symptom_time": "4 PM"
+    },
+    {
+      "food": "salad",
+      "symptom": "headache",
+      "food_time": "1:30 PM",
+      "symptom_time": "4 PM"
+    }
+  ]
+}

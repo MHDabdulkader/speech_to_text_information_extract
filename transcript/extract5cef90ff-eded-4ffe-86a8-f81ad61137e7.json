@@ -1,0 +1,15 @@
+{
+  "foods": [
+    "chicken",
+    "rice",
+    "salad"
+  ],
+  "reasons": [
+    "chicken",
+    "rice",
+    "salad"
+  ],
+  "symptoms": [
+    "bloated"
+  ]
+}
